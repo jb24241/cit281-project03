@@ -1,0 +1,15 @@
+{
+    "name": "lab-04",
+    "version": "1.0.0",
+    "description": "",
+    "main": "lab-04.js",
+    "scripts": {
+        "start": "fastify start -l info lab-04.js"
+    },
+    "dependencies": {
+        "fastify": "^3.29.5"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
